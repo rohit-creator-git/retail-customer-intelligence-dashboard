@@ -2,15 +2,16 @@
 
 ## Key Findings
 
-- Consumer Segment generated the highest number of orders.
-- Technology category contributed significantly to total sales.
-- Some categories showed high sales but low profitability because of discounts.
-- Regional sales performance varied across different locations.
-- Data analysis helped identify profitable categories and business opportunities.
+- Consumer Segment generated the highest number of sales.
+- Technology category contributed significantly to total revenue.
+- Some categories generated high sales but low profit due to heavy discounts.
+- Regional sales performance differed across locations.
+- Data analysis helped identify profitable business opportunities.
 
 ## Recommendations
 
 - Focus on high-profit product categories.
-- Reduce excessive discounting on low-margin products.
-- Improve inventory planning for high-demand categories.
-- Monitor regional sales performance regularly using dashboards.
+- Reduce unnecessary discounting.
+- Improve inventory planning.
+- Monitor regional sales regularly.
+- Increase marketing efforts for profitable categories.
