@@ -7,3 +7,4 @@
 - Pandas
 - NumPy
 - Matplotlib
+- Jupyter Notebook
